@@ -6,6 +6,7 @@ Tracking my problem solving journey
 | ------- |
 | [0035-search-insert-position](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0704-binary-search) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/karnoark/Algorithmic-Challenges/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Binary Search
 |  |
 | ------- |
@@ -13,6 +14,7 @@ Tracking my problem solving journey
 | [0069-sqrtx](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0704-binary-search) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/karnoark/Algorithmic-Challenges/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Interactive
 |  |
 | ------- |
