@@ -5,7 +5,8 @@ function minEatingSpeed(piles: number[], h: number): number {
     }
     function feasible(x: number){
         let hrs = 0
-        piles.forEach(i => hrs += Math.ceil(i/x))
+        // piles.forEach(i => hrs += Math.ceil(i/x))
+        hrs = piles.reduce((acc, currV) => acc += Math.ceil(currV/x), 0)
         return hrs <= h
        
     }
