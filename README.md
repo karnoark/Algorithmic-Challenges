@@ -7,6 +7,7 @@ Tracking my problem solving journey
 | [0035-search-insert-position](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0035-search-insert-position) |
 | [0410-split-array-largest-sum](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/karnoark/Algorithmic-Challenges/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Binary Search
 |  |
@@ -16,6 +17,7 @@ Tracking my problem solving journey
 | [0278-first-bad-version](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0278-first-bad-version) |
 | [0410-split-array-largest-sum](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/karnoark/Algorithmic-Challenges/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Interactive
 |  |
