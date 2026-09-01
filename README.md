@@ -5,6 +5,7 @@ Tracking my problem solving journey
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0035-search-insert-position) |
+| [0219-contains-duplicate-ii](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0219-contains-duplicate-ii) |
 | [0410-split-array-largest-sum](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0875-koko-eating-bananas) |
@@ -45,4 +46,12 @@ Tracking my problem solving journey
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0410-split-array-largest-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0219-contains-duplicate-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
