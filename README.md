@@ -50,8 +50,18 @@ Tracking my problem solving journey
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0567-permutation-in-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0567-permutation-in-string) |
+## String
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
