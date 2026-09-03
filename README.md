@@ -64,4 +64,12 @@ Tracking my problem solving journey
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0567-permutation-in-string) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
