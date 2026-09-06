@@ -5,6 +5,7 @@ Tracking my problem solving journey
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0035-search-insert-position) |
+| [0136-single-number](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0219-contains-duplicate-ii) |
 | [0410-split-array-largest-sum](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0704-binary-search) |
@@ -72,4 +73,8 @@ Tracking my problem solving journey
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0155-min-stack) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
