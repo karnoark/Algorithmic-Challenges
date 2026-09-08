@@ -51,6 +51,7 @@ Tracking my problem solving journey
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
@@ -64,6 +65,7 @@ Tracking my problem solving journey
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
@@ -77,4 +79,8 @@ Tracking my problem solving journey
 |  |
 | ------- |
 | [0136-single-number](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0136-single-number) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
