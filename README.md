@@ -12,6 +12,7 @@ Tracking my problem solving journey
 | [0875-koko-eating-bananas](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/karnoark/Algorithmic-Challenges/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/karnoark/Algorithmic-Challenges/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1732-find-the-highest-altitude](https://github.com/karnoark/Algorithmic-Challenges/tree/master/1732-find-the-highest-altitude) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,6 +48,7 @@ Tracking my problem solving journey
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0410-split-array-largest-sum) |
+| [1732-find-the-highest-altitude](https://github.com/karnoark/Algorithmic-Challenges/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
