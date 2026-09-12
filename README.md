@@ -20,6 +20,7 @@ Tracking my problem solving journey
 | [0069-sqrtx](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0278-first-bad-version) |
 | [0410-split-array-largest-sum](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0410-split-array-largest-sum) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/karnoark/Algorithmic-Challenges/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -32,6 +33,7 @@ Tracking my problem solving journey
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0069-sqrtx) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 ## Newton's Method
 |  |
 | ------- |
