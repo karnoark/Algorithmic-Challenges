@@ -32,6 +32,7 @@ Tracking my problem solving journey
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0069-sqrtx) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 ## Newton's Method
@@ -87,4 +88,12 @@ Tracking my problem solving journey
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0242-valid-anagram) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
