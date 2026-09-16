@@ -66,11 +66,13 @@ Tracking my problem solving journey
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
