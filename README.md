@@ -101,22 +101,26 @@ Tracking my problem solving journey
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0543-diameter-of-binary-tree) |
