@@ -108,6 +108,7 @@ Tracking my problem solving journey
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0572-subtree-of-another-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/karnoark/Algorithmic-Challenges/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -117,6 +118,7 @@ Tracking my problem solving journey
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0572-subtree-of-another-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/karnoark/Algorithmic-Challenges/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -124,6 +126,7 @@ Tracking my problem solving journey
 | [0102-binary-tree-level-order-traversal](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0199-binary-tree-right-side-view) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/karnoark/Algorithmic-Challenges/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -134,6 +137,7 @@ Tracking my problem solving journey
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0572-subtree-of-another-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/karnoark/Algorithmic-Challenges/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
