@@ -26,6 +26,7 @@ function isValidBST(root: TreeNode | null): boolean {
             x = false
             return false
         }
+        if(!x) return false
         preOrder(node.left, lowerBound, node.val)
         preOrder(node.right, node.val, upperBound)
         return true
