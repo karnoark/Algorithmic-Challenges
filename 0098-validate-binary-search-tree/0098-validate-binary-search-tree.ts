@@ -13,24 +13,18 @@
  */
 
 function isValidBST(root: TreeNode | null): boolean {
-    
-    let x = true
-    function preOrder(node: TreeNode | null, lowerBound: number, upperBound: number){
-        if(node == null) return false
-        console.log("node.val: ", node.val, " lowerBound: ", lowerBound, " upperBound: ", upperBound)
-        if(node.val <= node.left?.val || node.val >= node.right?.val){
-            x = false
-            return false
-        } 
-        if(node.val <= lowerBound || node.val >= upperBound){
-            x = false
+    function isValid(node: TreeNode | null, lowerBound: number | null, upperBound: number | null){
+        if(node == null) return true
+        if(
+            (lowerBound != null && node.val <= lowerBound) || 
+            (upperBound != null && node.val >= upperBound)
+        ){
             return false
         }
-        if(!x) return false
-        preOrder(node.left, lowerBound, node.val)
-        preOrder(node.right, node.val, upperBound)
-        return true
+        return (
+            isValid(node.left, lowerBound, node.val) &&
+            isValid(node.right, node.val, upperBound)
+        )
     }
-    preOrder(root, -Infinity, Infinity)
-    return x
+    return isValid(root, null, null)
 };
