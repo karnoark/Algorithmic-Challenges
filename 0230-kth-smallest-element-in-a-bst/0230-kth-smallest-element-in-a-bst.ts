@@ -20,7 +20,7 @@ function kthSmallest(root: TreeNode | null, k: number): number {
         console.log(node.val)
         k--
         if(k == 0) kthSmallest = node.val
-        inOrder(node.right)
+        k > 0 && inOrder(node.right)
     }
     inOrder(root)
     return kthSmallest
