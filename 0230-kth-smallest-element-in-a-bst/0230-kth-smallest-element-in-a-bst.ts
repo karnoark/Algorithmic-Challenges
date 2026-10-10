@@ -13,15 +13,36 @@
  */
 
 function kthSmallest(root: TreeNode | null, k: number): number {
-    let kthSmallest = root.val
-    function inOrder(node: TreeNode){
-        if(node == null) return null
-        inOrder(node.left)
-        console.log(node.val)
-        k--
-        if(k == 0) kthSmallest = node.val
-        k > 0 && inOrder(node.right)
+    // let kthSmallest = root?.val
+    // function inOrder(node: TreeNode | null){
+    //     if(node == null) return null
+    //     inOrder(node.left)
+    //     console.log(node.val)
+    //     k--
+    //     if(k == 0) kthSmallest = node.val
+    //     k > 0 && inOrder(node.right)
+    // }
+    // inOrder(root)
+    // return kthSmallest
+
+    let node = root
+    let stk: TreeNode[] = []
+    while(node != null || stk.length > 0){
+        // go to the leftmost node
+        while(node != null){
+            stk.push(node)
+            node = node.left
+        }
+
+        node = stk.pop()
+        // reduce the k and check if we have reached kth smallest
+        if(--k == 0){
+            return node.val
+        }
+
+        // move to right subtree
+        node = node.right
     }
-    inOrder(root)
-    return kthSmallest
+    throw new RangeError("k exceeds the number of nodes")
+
 };
