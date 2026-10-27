@@ -9,6 +9,7 @@ Tracking my problem solving journey
 | [0136-single-number](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0219-contains-duplicate-ii) |
 | [0410-split-array-largest-sum](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0410-split-array-largest-sum) |
+| [0496-next-greater-element-i](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/karnoark/Algorithmic-Challenges/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -58,6 +59,7 @@ Tracking my problem solving journey
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
@@ -79,6 +81,7 @@ Tracking my problem solving journey
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -176,4 +179,8 @@ Tracking my problem solving journey
 |  |
 | ------- |
 | [0078-subsets](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0078-subsets) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
