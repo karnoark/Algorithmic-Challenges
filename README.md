@@ -6,6 +6,7 @@ Tracking my problem solving journey
 | ------- |
 | [0035-search-insert-position](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0035-search-insert-position) |
 | [0078-subsets](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0219-contains-duplicate-ii) |
 | [0410-split-array-largest-sum](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0410-split-array-largest-sum) |
@@ -69,6 +70,7 @@ Tracking my problem solving journey
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0567-permutation-in-string) |
 ## String
@@ -94,6 +96,7 @@ Tracking my problem solving journey
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/karnoark/Algorithmic-Challenges/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
