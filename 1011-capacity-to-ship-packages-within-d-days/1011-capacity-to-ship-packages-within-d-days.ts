@@ -1,49 +1,44 @@
 function shipWithinDays(weights: number[], days: number): number {
-    // edge cases
-
-    // max & total sum
-    let max = weights[0]
-    let total_sum = 0
-    for(let x of weights){
-        total_sum += x
-        max = x > max ? x : max
+    let totalWt = 0
+    let maxWt = weights[0]
+    for(let pkgWt of weights){
+        totalWt += pkgWt
+        maxWt = Math.max(maxWt, pkgWt)
     }
-    let min_wc = max > total_sum/days ? max : Math.floor(total_sum/days)
-    let max_wc = total_sum
+    // let left: number = Math.floor(totalWt/days)
+    let left = maxWt
+    let right: number = totalWt
 
-
-    // function to check a certain weight capacity
-    function weightCapacityPass(wc) {
-        let sw = 0
-        let number_of_trips = 0
-        for(let x of weights){
-            sw +=x
-            if(sw === wc){
-                sw = 0;
-                number_of_trips++
-            }
-            if(sw > wc){
-                sw = x;
-                number_of_trips++
-            }
-        }
-        if(sw > 0) number_of_trips++
-        console.log("weight capacity: ", wc, " number of trips: ", number_of_trips)
-        return number_of_trips <= days ? true : false
-    }
-    
-    // check all the capcities from lowest to highest using binary search
-
-    let left = min_wc
-    let right = max_wc
+    // let nums = [1, 2, 3, 4, 5 ,6]
+    // let target = 5
+    // let left = 0
+    // let right = nums.length - 1
     while(left < right){
         let mid = left + Math.floor((right - left)/2)
-        if(weightCapacityPass(mid)){
+        // if(nums[mid] >= target){
+        if(wtValidity(mid, days, weights)){
             right = mid
         }else{
             left = mid + 1
         }
     }
-    return left
-
+    return left 
 };
+
+function wtValidity(hypoCap: number, days: number, weights: number[]): boolean{
+    // if hypoDays > days => false
+    let hypoDays = 0
+    let tempTotalWt = 0
+    for(let pkgWt of weights){
+        tempTotalWt += pkgWt
+        if(tempTotalWt > hypoCap){
+            // console.log("tempTotalWt: ", tempTotalWt, " hypoCap: ", hypoCap)
+            tempTotalWt = pkgWt
+            hypoDays++
+        }
+    }
+    if(tempTotalWt) hypoDays++
+    // console.log("hypoDays: ", hypoDays)
+    if(hypoDays > days) return false
+    return true
+}
